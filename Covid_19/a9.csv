@@ -1,0 +1,4 @@
+﻿District,State_Abbreviation,Case_Fatality_Value,Deaths_Value,Recovered_Value,Active_Cases_Value,Confirmed_Cases_Value,Infection_rate_Value,First_Dose_Value,Second_Dose_Value,Total_Dose_Value,Covaxin_Value,Covishield_Value,Sputnik_Value,Male_Doses_Value,Female_Doses_Value,Other_Doses_Value,18_to_45_Value,45_to_60_Value,60_plus_Value
+Daman, DNHDD,0.03,1,3303,67,3397,0.03,75423,8551,83974,0,88124,0,51843,27759,12,50327,21549,7665
+Diu, DNHDD,0,0,979,123,1104,0.21,26023,5522,31545,0,31897,0,12872,13829,7,15197,6611,4983
+Dadra & Nagar Haveli, DNHDD.,0.05,3,5690,58,5756,0.02,88308,11964,100272,0,103019,0,61712,29312,16,55815,27054,8156

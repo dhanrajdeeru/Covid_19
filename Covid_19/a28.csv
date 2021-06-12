@@ -1,0 +1,5 @@
+﻿District,State_Abbreviation,Case_Fatality_Value,Deaths_Value,Recovered_Value,Active_Cases_Value,Confirmed_Cases_Value,Infection_rate_Value,First_Dose_Value,Second_Dose_Value,Total_Dose_Value,Covaxin_Value,Covishield_Value,Sputnik_Value,Male_Doses_Value,Female_Doses_Value,Other_Doses_Value,18_to_45_Value,45_to_60_Value,60_plus_Value
+Karaikal, PY,1.41,182,10993,1738,12913,0.89,27114,4603,31717,0,32249,0,14275,13648,8,6525,12575,8827
+Mahe, PY,0.7,29,3920,213,4162,0.68,16420,3839,20259,0,20259,0,7547,8988,1,3404,7113,6017
+Puducherry, PY,1.52,1277,74802,7749,83828,0.68,182872,41457,224329,0,224329,0,96976,87802,23,67296,67733,49781
+Yanam, PY,1.53,95,5801,315,6211,0.37,7960,1754,9714,74,9640,0,4314,3734,1,2309,3523,2220

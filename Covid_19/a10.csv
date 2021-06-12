@@ -1,0 +1,3 @@
+﻿District,State_Abbreviation,Case_Fatality_Value,Deaths_Value,Recovered_Value,Active_Cases_Value,Confirmed_Cases_Value,Infection_rate_Value,First_Dose_Value,Second_Dose_Value,Total_Dose_Value,Covaxin_Value,Covishield_Value,Sputnik_Value,Male_Doses_Value,Female_Doses_Value,Other_Doses_Value,18_to_45_Value,45_to_60_Value,60_plus_Value
+North Goa, GA,2.44,65,964,1639,2668,0.21,222062,46614,268676,9402,259274,0,117791,106405,20,69425,86324,69103
+South Goa, GA,3.59,126,1407,1978,3511,0.23,245396,49636,295032,540,294492,0,124010,124852,21,62509,103461,83221

@@ -1,0 +1,5 @@
+﻿District,State_Abbreviation,Case_Fatality_Value,Deaths_Value,Recovered_Value,Active_Cases_Value,Confirmed_Cases_Value,Infection_rate_Value,First_Dose_Value,Second_Dose_Value,Total_Dose_Value,Covaxin_Value,Covishield_Value,Sputnik_Value,Male_Doses_Value,Female_Doses_Value,Other_Doses_Value,18_to_45_Value,45_to_60_Value,60_plus_Value
+East Sikkim, SK,1.38,148,4917,5571,10714,1.81,92893,28846,121739,0,121819,0,49576,43531,14,22544,45570,25001
+North Sikkim, SK,0.19,1,72,432,514,0.9,10915,4542,15457,0,15457,0,6175,4738,2,2320,5686,2907
+South Sikkim, SK,0.07,2,438,2484,2939,1.38,40816,14598,55414,0,55414,0,22033,18775,8,3356,22299,15158
+West Sikkim, SK,1.07,19,137,1588,1769,1.01,35211,11727,46938,0,46938,0,19121,16087,3,3975,18921,12314

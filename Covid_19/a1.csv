@@ -1,0 +1,4 @@
+﻿District,State_Abbreviation,Case_Fatality_Value,Deaths_Value,Recovered_Value,Active_Cases_Value,Confirmed_Cases_Value,Infection_rate_Value,First_Dose_Value,Second_Dose_Value,Total_Dose_Value,Covaxin_Value,Covishield_Value,Sputnik_Value,Male_Doses_Value,Female_Doses_Value,Other_Doses_Value,18_to_45_Value,45_to_60_Value,60_plus_Value
+Nicobar, AN,0,0,0,0,0,0,8649,1906,10555,0,10555,0,4553,4096,0,998,4939,2712
+North & Middle Andaman, AN,0,0,1,0,1,0,32431,3289,35720,0,35720,0,17206,15222,3,3711,17755,10964
+South Andaman, AN,0,0,32,19,51,0.01,70889,10028,80917,0,80917,0,38584,32309,6,15775,38083,17039
